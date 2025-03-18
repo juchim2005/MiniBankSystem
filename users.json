@@ -1,0 +1,22 @@
+[
+    {
+        "login": "admin",
+        "password": "admin",
+        "balance": 50.0
+    },
+    {
+        "login": "test",
+        "password": "test",
+        "balance": 0
+    },
+    {
+        "login": "test2",
+        "password": "test2",
+        "balance": 0
+    },
+    {
+        "login": "robert",
+        "password": "robert",
+        "balance": 0
+    }
+]
